@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**Thomalexc/Thomalexc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hello there.</h1>
+<h2>My name is Thomas and I enjoy coding in Python and C#.</h2>
+<h3>Hobbies:</h3>
+<ul>
+  <li>💻Playing games</li>
+  <li>🧗‍♂️Climbing</li>
+  <li>🎾Tennis</li>
+  <li>Speaking German</li>
+  <li>💷Economics</li>
+</ul>
+<h2>
+<h3>My links:</h3>
+<ul>
+  <li>Steam: https://steamcommunity.com/id/JustARedPando/</li>
+  <li>Itch.io: https://thomalexc.itch.io</li>
+</ul>
+<h2>
+<h3>That's about it. Thank you for taking the time to read my README.md.</h3></h3>
